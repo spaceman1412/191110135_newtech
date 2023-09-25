@@ -8,6 +8,6 @@ router.get("/:id", controller.GetStudentById);
 
 router.post("/", controller.CreateNewStudent);
 
-router.get("/message/:id", controller.GeStudentMessage);
+router.get("/message/:id", controller.GetStudentMessage);
 
 module.exports = router;
