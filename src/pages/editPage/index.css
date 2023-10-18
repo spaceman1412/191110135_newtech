@@ -1,0 +1,73 @@
+
+/* Style the main edit container */
+.edit-container {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+/* Style the edit title */
+.edit-title {
+  font-size: 24px;
+  color: #333;
+}
+
+/* Style the edit form */
+.edit-form {
+  margin-top: 20px;
+}
+
+/* Style the title section */
+.title-section {
+  margin-bottom: 10px;
+}
+
+/* Style the edit label for the title */
+.edit-label {
+  font-size: 18px;
+  color: #333;
+}
+
+/* Style the title input */
+.edit-input-title{
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+/* Style the content section */
+.content-section {
+  margin-bottom: 10px;
+}
+
+/* Style the edit label for the content */
+.edit-label {
+  font-size: 18px;
+  color: #333;
+}
+
+/* Style the content textarea */
+.edit-textarea {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+/* Style the submit edit button */
+.submit-edit-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}

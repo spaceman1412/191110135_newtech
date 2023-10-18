@@ -1,0 +1,36 @@
+.button{
+    border: 1px solid #ddd;
+    background-color: white;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    width : 80px;
+    height: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.add-button{
+    border: 1px solid #4CAF50;
+}
+
+.add-button-text{
+    color: #4CAF50;
+}
+
+.add-button:hover{
+    border: 1px solid #4CAF50;
+    border-radius: 5px;
+    width: 79px;
+    height: 14px;
+}
+
+.button-content{
+    text-decoration: none;
+    text-transform: uppercase;
+    size: 15px;
+}
+
+
+

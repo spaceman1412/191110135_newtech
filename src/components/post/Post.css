@@ -1,0 +1,70 @@
+.post {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  margin: 20px;
+  text-decoration: none;
+}
+.button-container {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+}
+.post-username {
+  color: black;
+
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+.post-message {
+  color: black;
+
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+.post-timestamp {
+  color: #999;
+  font-size: 0.8rem;
+  margin: 0;
+}
+/* Style for the EDIT button (assuming it's a detail button) */
+.detail-button {
+  /* background-color: #3498db; */
+  background-color: green;
+  border: 1px #3498db solid;
+  border-radius: 3px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+/* Style for the DELETE button */
+.delete-button {
+  background-color: transparent;
+  font-weight: 700;
+  border: 1px #e74c3c solid;
+  color: #e74c3c;
+  padding: 5px 10px;
+  border-radius: 3px;
+  cursor: pointer;
+  width: 114px;
+  height: 50px;
+  font-size: 15px;
+}
+
+/* Hover effect for the DELETE button */
+.detail-button:hover {
+  background-color: #3498db;
+  color: white;
+}
+
+.delete-button:hover {
+  background-color: #e74c3c;
+  color: white;
+}

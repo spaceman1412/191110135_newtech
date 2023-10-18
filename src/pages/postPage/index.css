@@ -1,0 +1,73 @@
+
+/* Style the main container */
+.container-post {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+/* Style the header title */
+.header-title {
+  font-size: 24px;
+  color: #333;
+}
+
+/* Style the form for submitting a post */
+.form-submit-post {
+  margin-top: 20px;
+}
+
+/* Style the container for the post title */
+.title-container-post {
+  margin-bottom: 10px;
+}
+
+/* Style the label for the post title */
+.title-label-post {
+  font-size: 18px;
+  color: #333;
+}
+
+/* Style the input for the post title */
+.title-input-post {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+/* Style the container for the post content */
+.content-container-post {
+  margin-bottom: 10px;
+}
+
+/* Style the label for the post content */
+.content-label-post {
+  font-size: 18px;
+  color: #333;
+}
+
+/* Style the textarea for the post content */
+.content-area-post {
+  width: 100%;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  font-size: 16px;
+  margin-top: 5px;
+}
+
+/* Style the submit button for adding a post */
+.button-submit-add-post {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+}
